@@ -1,6 +1,7 @@
-# NAME OF APPLICATION
-=======================
-**<grade.js , salary.js , speed.js >** 
+# CODE CHALLENGE 1
+
+**grade.js , salary.js , speed.js ** 
+
 <The first program(grade.js) allows students to inpt their marks and allocates grades to each mark. The second program(salary.js) calculates an individuals net salary. The last program (speed.js)takes car speed as input and returns dermerit points if thedriver is above the speed limit>
 
 ### Prerequisites
