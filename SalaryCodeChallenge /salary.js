@@ -1,7 +1,8 @@
 const prompt = require('prompt-sync')();
 // gets salary and benefits as input
 let salary = prompt("Please enter your salary");
-let benefits = prompt ("Please enter your benefits");
+let benefits = prompt("Please enter your benefits");
+
 // calculating gross salary
 let grossSalary = parseInt(salary) + parseInt(benefits);
 console.log ("Gross Pay:" ,grossSalary);
